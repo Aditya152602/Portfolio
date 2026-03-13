@@ -38,9 +38,9 @@
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
 │   ╔═══════════════════════════════════════╗             │
-│   ║   Hi, I'm  A D I T Y A  👋           ║             │
-│   ║   Developer · Data Scientist · ML     ║             │
-│   ║   Engineer · Problem Solver           ║             │
+│   ║   Hi, I'm  A D I T Y A  👋            ║             │
+│   ║   Developer · Problem Solver ·        ║             │
+│   ║                                       ║             │
 │   ╠═══════════════════════════════════════╣             │
 │   ║  [About]  [Skills]  [Projects]        ║             │
 │   ║  [Education]  [Contact]               ║             │
